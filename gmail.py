@@ -36,12 +36,12 @@ if len(email) >=6: #1
                     print("Right email")
             
             else:
-                print("worng email 4")
+                print("wrong email 4")
         else:
-            print("worng email 3")
+            print("wrong email 3")
       
     else:
-        print("worng email 2")
+        print("wrong email 2")
 
 else:
-    print("worng email 1")
+    print("wrong email 1")
